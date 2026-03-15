@@ -1,6 +1,6 @@
-# Exemplo de Vendas - Módulo 35
+# Exemplo de Vendas 
 
-Este é um projeto **didático e de estudo**, desenvolvido como parte do Módulo 35. Seu objetivo principal foi o aprendizado prático durante o processo de **refatoração de uma arquitetura baseada puramente em JDBC para uma arquitetura utilizando ORM (JPA com Hibernate)**. 
+Este é um projeto **didático e de estudo**. Seu objetivo principal foi o aprendizado prático durante o processo de **refatoração de uma arquitetura baseada puramente em JDBC para uma arquitetura utilizando ORM (JPA com Hibernate)**. 
 
 O projeto contempla um sistema simplificado de vendas, modelando entidades como **Cliente**, **Produto** e **Venda**, operando com operações de CRUD e demonstrando, na prática, as diferenças e facilidades introduzidas pelo JPA em comparação ao acesso nativo via JDBC.
 
